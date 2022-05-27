@@ -3,13 +3,12 @@
 My name is Michał. I am aspiring Web Developer. 
 I really enjoy learning all the in and outs of Javascript. 
 <br/>
-<br/>
 
 # 🔍 About :
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="250">
 
 <img src="https://michal-stepien.com/img/avatar_1.png" align="left" height="" width="100%" />
 
@@ -26,21 +25,21 @@ I really enjoy learning all the in and outs of Javascript.
 🔗 Website: [www.michal-stepien.com](https://michal-stepien.com) 
 </td>
 </tr>
-</table>
+</table> <br/>
 
 🕹️Hobbys: Spending tme with my two dogs 🐶, sports and strength training 🏋️‍♂️, chess ♟️, longboarding 🛹,  pc and board games 🎮, poker ♣️
 
 <br/>
-<br/>
 
 # 📂 Portfolio :
+
+<img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="200" float="left" align="center"  />
 
 🤞 I am currently looking for first commercial experience 🤞 <br/>
 
 Visit my personal portfolio website and check some of the project I have made: <br/><br/>
-[<img src="https://michal-stepien.com/img/miniatures/share.png"/>](https://michal-stepien.com)
+[<img align="center" width="450" src="https://michal-stepien.com/img/miniatures/share.png"/>](https://michal-stepien.com)
 
-<br/>
 <br/>
 
 # 💻 Tech Stack
@@ -84,15 +83,13 @@ Visit my personal portfolio website and check some of the project I have made: <
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <br/>
-<br/>
 
 # 📈 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Kinetic639&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kinetic639&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kinetic639&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kinetic639&theme=vue-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinetic639&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
 <br/>
 
 # 🌐 Socials
@@ -102,7 +99,6 @@ Visit my personal portfolio website and check some of the project I have made: <
 
 Portfolio website: [www.michal-stepien.com](https://michal-stepien.com)
 
-<br/>
 <br/>
 
 ---
