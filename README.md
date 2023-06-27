@@ -10,7 +10,7 @@ I really enjoy learning all the in and outs of Javascript.
 <tr>
 <td valign="top" width="250">
 
-<img src="https://michal-stepien.com/img/profile/avatar_1.png" align="left" height="" width="100%" />
+<img src="https://michal-stepien.com/static/media/about01.9b9872d05fb9b307d86e.webp" align="left" height="" width="100%" />
 
 </td><td valign="top">
 
