@@ -35,10 +35,10 @@ I really enjoy learning all the in and outs of Javascript.
 
 <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="200" float="left" align="center"  />
 
-🤞 I am currently looking for first commercial experience 🤞 <br/>
+🤞 I am currently looking for job :)  🤞 <br/>
 
 Visit my personal portfolio website and check some of the project I have made: <br/><br/>
-[<img align="center" width="450" src="https://michal-stepien.com/img/miniatures/share.png"/>](https://michal-stepien.com)
+[<img align="center" width="450" src="https://michal-stepien.com/preview-image.webp"/>](https://michal-stepien.com)
 
 <br/>
 
